@@ -16,5 +16,5 @@
 
 
 
-[GitHub](https://github.com/tanwenzan/coding) [Get Started](#java)
+[GitHub](https://github.com/tanwenzan/coding) [Get Started](#数据结构)
 
